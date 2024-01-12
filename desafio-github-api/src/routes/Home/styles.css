@@ -1,0 +1,25 @@
+.home-ctr {
+  padding: 20px 0;
+}
+
+.home-ctr h1 {
+  font-size: 48px;
+  color: var(--color-font-primary);
+}
+
+.home-ctr p {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--color-font-tertiary);
+  margin-bottom: 30px;
+}
+
+.home-ctr button {
+  background-color: var(--color-bg-secondary);
+  color: var(--color-font-secondary);
+  height: 40px;
+  width: 100px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
